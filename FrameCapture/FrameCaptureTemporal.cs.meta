@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5424d59a5d28dfc4b917f706e17955e7
+timeCreated: 1496487258
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - resolveShader: {fileID: 4800000, guid: 000a2f3bd9ef6c14f8a0ab3e05ff2376, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
